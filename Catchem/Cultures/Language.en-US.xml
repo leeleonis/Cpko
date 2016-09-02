@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LangSettings>
+  <MENU>MENU</MENU>
+  <ADDNEWBOT>ADD NEW BOT</ADDNEWBOT>
+  <STARTALL>START ALL</STARTALL>
+  <BATCHCREATION>BATCH CREATION</BATCHCREATION>
+  <STOPALL>STOP ALL</STOPALL>
+  <Settings>STOPALL</Settings>
+  <MapConsole>Map Console</MapConsole>
+  <Information>Information</Information>
+</LangSettings>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LangSettings>
+  <MENU>選單</MENU>
+  <ADDNEWBOT>新增帳號</ADDNEWBOT>
+  <STARTALL>全部開始</STARTALL>
+  <BATCHCREATION>批次新增</BATCHCREATION>
+  <STOPALL>全部停止</STOPALL>
+  <Settings>設定</Settings>
+  <MapConsole>地圖控制</MapConsole>
+  <Information>帳號資訊</Information>
+  <PokeListsSettings>寶可夢設定</PokeListsSettings>
+</LangSettings>

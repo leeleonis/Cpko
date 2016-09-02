@@ -9,12 +9,12 @@
     <UserControl.Resources>
         <ResourceDictionary Source="../Styles.xaml" />
     </UserControl.Resources>
-    <Grid>
+    <Grid DataContext="{Binding Source={StaticResource xmlLanguageProvider}}">
         <TabControl x:Name="tabControl"
                 Margin="0,0,0,0"
                 VerticalContentAlignment="Top"
                 IsEnabled="False"
-                RenderTransformOrigin="0.5,0.5">
+                RenderTransformOrigin="0.5,0.5" DataContext="{Binding Source={StaticResource xmlLanguageProvider}}">
             <TabControl.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform />
@@ -23,13 +23,13 @@
                     <TranslateTransform />
                 </TransformGroup>
             </TabControl.RenderTransform>
-            <TabItem Header="Settings">
+            <TabItem Header="{Binding XPath=/LangSettings/Settings}">
                 <pages:SettingsPage x:Name="BotSettingsPage"
                                 Width="Auto"
                                 Height="Auto"
                                 Margin="0" />
             </TabItem>
-            <TabItem Header="Map &amp; Console">
+            <TabItem Header="{Binding XPath=/LangSettings/MapConsole}">
                 <Grid Margin="0" Background="#FFE5E5E5">
                     <Grid.RowDefinitions>
                         <RowDefinition />
@@ -62,12 +62,12 @@
                     </RichTextBox>
                 </Grid>
             </TabItem>
-            <TabItem Header="Information">
+            <TabItem Header="{Binding XPath=/LangSettings/Information}">
                 <pages:PlayerPage x:Name="BotPlayerPage"
                               Width="Auto"
                               Height="Auto" />
             </TabItem>
-            <TabItem Header="Poke Lists Settings">
+            <TabItem Header="{Binding XPath=/LangSettings/PokeListsSettings}">
                 <pages:PokemonListPage x:Name="BotPokemonListPage"
                                    Width="Auto"
                                    Height="Auto"

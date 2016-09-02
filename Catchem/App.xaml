@@ -11,6 +11,7 @@
                 <!--<ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/Teal.xaml" />-->
                 <ResourceDictionary Source="Theme.xaml"/>
             </ResourceDictionary.MergedDictionaries>
+            <XmlDataProvider x:Key="xmlLanguageProvider" Source="Cultures/Language.xml" XPath="LangSettings" />
         </ResourceDictionary>
     </Application.Resources>
 </Application>

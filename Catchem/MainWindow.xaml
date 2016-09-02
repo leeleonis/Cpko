@@ -61,7 +61,7 @@
                     HorizontalAlignment="Left"
                     VerticalAlignment="Top"
                     Click="button_Click"
-                    Content="ADD NEW BOT"
+                    Content="{Binding Source={StaticResource xmlLanguageProvider}, XPath=/LangSettings/ADDNEWBOT}"
                     FontWeight="Bold"
                     Style="{StaticResource ResourceKey=flatbutton}"
                     TextOptions.TextFormattingMode="Display" Background="{DynamicResource StartBrush}"/>
@@ -72,7 +72,7 @@
                    HorizontalAlignment="Left"
                    VerticalAlignment="Top"
                    HorizontalContentAlignment="Center"
-                   Content="MENU"
+                   Content="{Binding Source={StaticResource xmlLanguageProvider}, XPath=/LangSettings/MENU}"
                    FontSize="20"
                    Foreground="#FF59C3B0" />
             <Button x:Name="btn_StartAll"
@@ -82,7 +82,7 @@
                     HorizontalAlignment="Left"
                     VerticalAlignment="Top"
                     Click="btn_StartAll_Click"
-                    Content="START ALL"
+                    Content="{Binding Source={StaticResource xmlLanguageProvider}, XPath=/LangSettings/STARTALL}"
                     FontWeight="Bold"
                     Style="{StaticResource ResourceKey=flatbutton}"
                     TextOptions.TextFormattingMode="Display">
@@ -108,7 +108,7 @@
                     HorizontalAlignment="Left"
                     VerticalAlignment="Top"
                     Click="btn_StopAll_Click"
-                    Content="STOP ALL"
+                    Content="{Binding Source={StaticResource xmlLanguageProvider}, XPath=/LangSettings/STOPALL}"
                     FontWeight="Bold"
                     Style="{StaticResource ResourceKey=flatbutton}"
                     TextOptions.TextFormattingMode="Display" Background="{DynamicResource StopBrush}"/>
@@ -138,7 +138,7 @@
                     HorizontalAlignment="Left"
                     VerticalAlignment="Top"
                     Click="btn_BatchCreation_Click"
-                    Content="BATCH CREATION"
+                    Content="{Binding Source={StaticResource xmlLanguageProvider}, XPath=/LangSettings/BATCHCREATION}"
                     FontWeight="Bold"
                     Style="{StaticResource ResourceKey=flatbutton}"
                     TextOptions.TextFormattingMode="Display">

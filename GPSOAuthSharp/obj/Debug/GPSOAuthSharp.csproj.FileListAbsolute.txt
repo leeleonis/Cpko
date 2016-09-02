@@ -1,5 +1,0 @@
-D:\pko\Catchem-PoGo-1.4.9.3\GPSOAuthSharp\bin\Debug\GPSOAuthSharp.dll
-D:\pko\Catchem-PoGo-1.4.9.3\GPSOAuthSharp\bin\Debug\GPSOAuthSharp.pdb
-D:\pko\Catchem-PoGo-1.4.9.3\GPSOAuthSharp\obj\Debug\GPSOAuthSharp.csprojResolveAssemblyReference.cache
-D:\pko\Catchem-PoGo-1.4.9.3\GPSOAuthSharp\obj\Debug\GPSOAuthSharp.dll
-D:\pko\Catchem-PoGo-1.4.9.3\GPSOAuthSharp\obj\Debug\GPSOAuthSharp.pdb
