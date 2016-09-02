@@ -11,5 +11,8 @@
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("adb/adb.exe")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("adb/adbwinapi.dll")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("adb/adbwinusbapi.dll")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("cultures/language.en-us.xml")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("cultures/language.zh-tw.xml")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("cultures/language.xml")]
 
 

@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\pko\Catchem-PoGo-1.4.9.3\Catchem\obj\Debug\
+D:\pko\Catchem\Catchem\obj\Debug\
 Catchem
 none
 false
 DEBUG;TRACE
-D:\pko\Catchem-PoGo-1.4.9.3\Catchem\App.xaml
+D:\pko\Catchem\Catchem\App.xaml
 13377031621
-3469543609
-37-1747990497
-81-723453275
+6-134813274
+381737185301
+82-1034941849
 Pages\AccountSettingsTab.xaml;Pages\GlobalMapPage.xaml;Pages\MapPage.xaml;Pages\PokemonListPage.xaml;Pages\RouteCreatorPage.xaml;Pages\TelegramPage.xaml;Pages\TemplateEditor.xaml;SupportForms\InputBox.xaml;MainWindow.xaml;Pages\PlayerPage.xaml;Pages\SettingsPage.xaml;Styles.xaml;Theme.xaml;
 
 False
