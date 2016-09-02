@@ -14,4 +14,19 @@
   <NotToTransfer>不傳送</NotToTransfer>
   <NotToCatch>不捕捉</NotToCatch>
   <ToUseMasterball>使用大師球</ToUseMasterball>
+  <Authtype>帳號類型</Authtype>
+  <Login>帳號</Login>
+  <Password>密碼</Password>
+  <Autostart>自動開始</Autostart>
+  <AutoComplete>自動完成教學，並設置帳號名稱</AutoComplete>
+  <Desirednick>帳號名稱</Desirednick>
+  <Authentication>帳號設定</Authentication>
+  <Pokes>寶可夢</Pokes>
+  <EvolveAllPokeAboveIv>IV以上全部進化</EvolveAllPokeAboveIv>
+  <EvolveIvValue>要進化的IV值</EvolveIvValue>
+  <EvolveAllPokeWithEnoughCandy>有足夠的糖果就全部進化</EvolveAllPokeWithEnoughCandy>
+  <TransferDuplicatePoke>傳送重複</TransferDuplicatePoke>
+  <KeepMinCp>要保留的最小Cp</KeepMinCp>
+  <KeepMinDuplicate>最少保留重複</KeepMinDuplicate>
+  <KeepMinIv>要保留的最小Iv</KeepMinIv>
 </LangSettings>

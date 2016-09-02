@@ -8,4 +8,25 @@
   <Settings>STOPALL</Settings>
   <MapConsole>Map Console</MapConsole>
   <Information>Information</Information>
+  <PokeListsSettings>Poke Lists Settings</PokeListsSettings>
+  <Add>Add</Add>
+  <ToEvolve>To Evolve</ToEvolve>
+  <NotToTransfer>Not To Transfer</NotToTransfer>
+  <NotToCatch>Not To Catch</NotToCatch>
+  <ToUseMasterball>To Use Masterball</ToUseMasterball>
+  <Authtype>Auth type</Authtype>
+  <Login>Login</Login>
+  <Password>Password</Password>
+  <Autostart>Autostart</Autostart>
+  <AutoComplete>Auto Complete Tutorial and set name as below</AutoComplete>
+  <Desirednick>Desired nick</Desirednick>
+  <Authentication>Authentication</Authentication>
+  <Pokes>Pokes</Pokes>
+  <EvolveAllPokeAboveIv> Evolve All Poke Above Iv</EvolveAllPokeAboveIv>
+  <EvolveIvValue>Evolve Iv Value</EvolveIvValue>
+  <EvolveAllPokeWithEnoughCandy>Evolve All Poke With Enough Candy</EvolveAllPokeWithEnoughCandy>
+  <TransferDuplicatePoke>Transfer Duplicate Poke</TransferDuplicatePoke>
+  <KeepMinCp>Keep Min Cp</KeepMinCp>
+  <KeepMinDuplicate>Keep Min Duplicate</KeepMinDuplicate>
+  <KeepMinIv>Keep Min Iv %</KeepMinIv>
 </LangSettings>
